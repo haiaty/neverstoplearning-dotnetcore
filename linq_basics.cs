@@ -114,3 +114,5 @@ namespace example
 
 // RESOURCES:
 // https://docs.microsoft.com/en-us/dotnet/csharp/linq/query-expression-basics
+// https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
+//https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq
